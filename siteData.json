@@ -115,7 +115,7 @@
         "edit-a-student-editstu": "Edit a student : editStu",
         "delete-a-student-deletestu": "Delete a student : deleteStu",
         "list-all-students-liststudents": "List all students : listStudents",
-        "locating-persons-by-name-find": "Locating persons by name: find",
+        "locating-students-by-student-id-find": "Locating students by student ID: find",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
