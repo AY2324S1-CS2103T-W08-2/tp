@@ -5,9 +5,9 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"sticky":""
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{attrs:{"id":"content-wrapper"}},[_c('h3',{attrs:{"id":"project-tp"}},[_v("Project: tp"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#project-tp","onclick":"event.stopPropagation()"}})]),_v(" "),_c('p',[_v("to be added soon...")])])}
+with(this){return _c('div',{attrs:{"id":"content-wrapper"}},[_c('h3',{attrs:{"id":"project-tp"}},[_v("Project: tp"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#project-tp","onclick":"event.stopPropagation()"}})]),_v(" "),_c('p',[_v("ModuLight is a web application to grade students in a module.\nThe user interface will mainly be CLI.")]),_v(" "),_c('ul',[_c('li',[_c('strong',[_v("Code contributed")]),_v(" "),_c('ul',[_c('li',[_v("To be added soon...")])])]),_v(" "),_c('li',[_c('strong',[_v("Enhancements implemented")]),_v(" "),_c('ul',[_c('li',[_v("To be added soon...")])])]),_v(" "),_c('li',[_c('strong',[_v("Contributions to the UG")]),_v(" "),_c('ul',[_c('li',[_v("To be added soon...")])])]),_v(" "),_c('li',[_c('strong',[_v("Contributions to the DG")]),_v(" "),_c('ul',[_c('li',[_v("To be added soon...")])])]),_v(" "),_c('li',[_c('strong',[_v("Contributions to team-based tasks")]),_v(" "),_c('ul',[_c('li',[_v("To be added soon...")])])]),_v(" "),_c('li',[_c('strong',[_v("Review Contributions")]),_v(" "),_c('ul',[_c('li',[_v("To be added soon...")])])]),_v(" "),_c('li',[_c('strong',[_v("Contributions beyond the project team")]),_v(" "),_c('ul',[_c('li',[_v("To be added soon...")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 3 Oct 2023, 22:33:21 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Wed, 4 Oct 2023, 0:06:45 GMT+8]")])])])}
 }];
   
