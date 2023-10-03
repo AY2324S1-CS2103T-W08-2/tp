@@ -9,7 +9,7 @@
         "project-team": "Project team",
         "john-doe": "John Doe",
         "li-siqi": "Li Siqi",
-        "johnny-doe": "Johnny Doe",
+        "mario-alvaro": "Mario Alvaro",
         "yufei-sun": "Yufei Sun",
         "vedant-sinha": "Vedant Sinha"
       },
@@ -148,6 +148,13 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/marioalvaro.md",
+      "headings": {
+        "project-tp": "Project: tp"
       },
       "headingKeywords": {}
     },
