@@ -10,7 +10,7 @@
         "john-doe": "John Doe",
         "jane-doe": "Jane Doe",
         "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
+        "yufei-sun": "Yufei Sun",
         "james-doe": "James Doe"
       },
       "headingKeywords": {}
@@ -132,6 +132,14 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/feifeiraindrops.md",
+      "title": "Yufei Sun's Project Portfolio Page",
+      "headings": {
+        "project-luminus": "Project: LumiNUS"
       },
       "headingKeywords": {}
     },
