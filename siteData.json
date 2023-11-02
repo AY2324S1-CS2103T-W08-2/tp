@@ -134,6 +134,7 @@
         "list-all-students-listall": "List all students : listAll",
         "sorting-students-sortstu": "Sorting students: sortStu",
         "calculating-overall-statistics": "Calculating overall statistics",
+        "calculating-statistics-of-a-graded-component": "Calculating statistics of a graded component",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
