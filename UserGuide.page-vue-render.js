@@ -236,7 +236,7 @@ with(this){return _c('h3',{attrs:{"id":"calculating-overall-statistics-stats"}},
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("stats [st/STATS] [g/TUTORIAL_GRP]")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("It is allowed to omit "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("[st/STATS]")]),_v(". In this case, it will return a summary of all statistics that are currently\nsupported.")]),_v(" "),_c('li',[_v("For stats keywords, it must be currently supported. Here is an exhaustive list of currently supported statistical\nmeasures: mean, standardDeviation, upperQuartile, lowerQuartile, max, min, skewness.")]),_v(" "),_c('li',[_v("It is allowed to have multiple stats keywords, but only allowed to have 0 or 1 tutorial group keywords.")])])}
+with(this){return _c('ul',[_c('li',[_v("It is allowed to omit "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("[st/STATS]")]),_v(". In this case, it will return a summary of all statistics that are currently\nsupported.")]),_v(" "),_c('li',[_v("For stats keywords, it must be currently supported. Here is an exhaustive list of currently supported statistical\nmeasures: mean, standardDeviation, upperQuartile, lowerQuartile, max, min, skewness.")]),_v(" "),_c('li',[_v("For the calculation of upper and lower quartile, we use Method 4 introduced\nin "),_c('a',{attrs:{"href":"https://en.wikipedia.org/wiki/Quartile"}},[_v("Wikipedia")]),_v(".")]),_v(" "),_c('li',[_v("It is allowed to have multiple stats keywords, but only allowed to have 0 or 1 tutorial group keywords.")])])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("stats st/upperQuartile st/lowerQuartile")]),_v(" returns the upper and lower quartile of the overall student grades.")])])}
@@ -248,7 +248,7 @@ with(this){return _c('h3',{attrs:{"id":"calculating-statistics-of-a-graded-compo
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("compStats c/COMP_NAME [st/STATS] [g/TUTORIAL_GRP]")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("It is allowed to omit "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("[st/STATS]")]),_v(". In this case, it will return a summary of all statistics that are currently\nsupported.")]),_v(" "),_c('li',[_v("For stats keywords, it must be currently supported. Here is an exhaustive list of currently supported statistical\nmeasures: mean, standardDeviation, upperQuartile, lowerQuartile, max, min, skewness.")]),_v(" "),_c('li',[_v("It is allowed to have multiple stats keywords, but only allowed to have 0 or 1 tutorial group keyword and component\nname keyword.")])])}
+with(this){return _c('ul',[_c('li',[_v("It is allowed to omit "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("[st/STATS]")]),_v(". In this case, it will return a summary of all statistics that are currently\nsupported.")]),_v(" "),_c('li',[_v("For stats keywords, it must be currently supported. Here is an exhaustive list of currently supported statistical\nmeasures: mean, standardDeviation, upperQuartile, lowerQuartile, max, min, skewness.")]),_v(" "),_c('li',[_v("For the calculation of upper and lower quartile, we use Method 4 introduced\nin "),_c('a',{attrs:{"href":"https://en.wikipedia.org/wiki/Quartile"}},[_v("Wikipedia")]),_v(".")]),_v(" "),_c('li',[_v("It is allowed to have multiple stats keywords, but only allowed to have 0 or 1 tutorial group keyword and component\nname keyword.")])])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("compStats st/upperQuartile st/lowerQuartile c/Midterm")]),_v(" returns the upper and lower quartile of the\nstudent grades in Midterm.")])])}
@@ -308,6 +308,6 @@ with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticC
 with(this){return _c('blockquote',[_c('blockquote',[_c('blockquote',[_c('blockquote',[_c('blockquote',[_c('blockquote',[_c('blockquote',[_c('p',[_v("master")])])])])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 7 Nov 2023, 19:27:16 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 7 Nov 2023, 19:38:23 GMT+8]")])])])}
 }];
   
