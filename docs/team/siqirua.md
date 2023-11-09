@@ -31,6 +31,16 @@ Given below are my contributions to the project.
     allow our users to quickly identify the top scores. Meanwhile, the associated students will also be displayed in the
     corresponding order. In addition, this command is also necessary to make the displayed data more neat.
 
+* **New Feature**: `find students` - Added command to search for students.
+    * What it does: Searches the students satisfying the given criteria.
+    * Justification: Similar to the previous features, when the number of student grows, it will be hard to find certain 
+    students based on their names or student IDs. Thus, we implement this command to allow our users to find certain 
+    students effectively.
+
+* **New Feature**: `clear all` - Added command to clear all data.
+    * What it does: Delete all the existing data.
+    * Justification: This allows our user to effectively delete all data and use it to manage a new module.
+  
 * **Code contributed**:
     * Please refer to this [RepoSense Link](https://nus-cs2103-ay2324s1.github.io/tp-dashboard/?search=siqirua&breakdown=true)
 
@@ -38,17 +48,14 @@ Given below are my contributions to the project.
     * Release JAR file for V1.3 trial
 
 * **Enhancements to existing features**:
-    * To be added soon
+    * Modify the student score related storage classes to suit our project.
 
 * **Documentation**:
     * User Guide:
-        * Added documentation for the features `find` [\#72]()
-        * Did cosmetic tweaks to existing documentation of features `clear`, `exit`: [\#74]()
+        * Added details for `findStu`, `sortStu`, `sortStuScore`, `stats`, `compStats`, `clearAll`
+        * Added details for student parameters `st/`, `o/` and `r/`
     * Developer Guide:
         * Added target user profile, value proposition, use cases, non-functional requirements and glossary sections.
 
 * **Community**:
-  * To be added soon
-
-* **Tools**:
-    * To be added soon
+  * Reported bugs and suggestions for team F10-3 during PE dry run.
