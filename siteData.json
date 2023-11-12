@@ -51,9 +51,8 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
+        "auto-grading": "Auto-grading",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
-        "proposed-data-archiving": "[Proposed] Data archiving",
-        "proposed-auto-grading": "[Proposed] Auto-grading",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -64,7 +63,8 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-student": "Deleting a student",
-        "saving-data": "Saving data"
+        "saving-data": "Saving data",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
     },
@@ -109,8 +109,8 @@
       "title": "User Guide",
       "headings": {
         "user-guide-modulight": "User Guide: ModuLight",
+        "welcome-to-modulight": "Welcome to ModuLight",
         "quick-start": "Quick start",
-        "command-format": "Command Format",
         "glossary": "Glossary",
         "definitions": "Definitions",
         "parameter-information": "Parameter Information",
@@ -120,6 +120,7 @@
         "command-related-parameters": "Command Related Parameters",
         "navigating-the-graphical-user-interface-gui": "Navigating the Graphical User Interface (GUI)",
         "quick-orientation": "Quick Orientation:",
+        "command-format": "Command Format",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
         "add-a-student-addstu": "Add a student: addStu",
@@ -143,9 +144,9 @@
         "saving-the-data": "Saving the data",
         "loading-the-previous-data": "Loading the previous data",
         "archiving-data-files-coming-in-v2-0": "Archiving data files [coming in v2.0]",
+        "command-summary": "Command summary",
         "faq": "FAQ",
-        "known-issues": "Known issues",
-        "command-summary": "Command summary"
+        "known-issues": "Known issues"
       },
       "headingKeywords": {}
     },
