@@ -63,7 +63,7 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-person": "Deleting a person",
+        "deleting-a-student": "Deleting a student",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
@@ -117,6 +117,7 @@
         "student-parameters": "Student Parameters",
         "graded-component-parameters": "Graded Component Parameters",
         "student-score-parameters": "Student Score Parameters",
+        "command-related-parameters": "Command Related Parameters",
         "navigating-the-graphical-user-interface-gui": "Navigating the Graphical User Interface (GUI)",
         "quick-orientation": "Quick Orientation:",
         "features": "Features",
@@ -150,9 +151,9 @@
     },
     {
       "src": "index.md",
-      "title": "",
+      "title": "Home page",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "modulight": "ModuLight"
       },
       "headingKeywords": {}
     },
