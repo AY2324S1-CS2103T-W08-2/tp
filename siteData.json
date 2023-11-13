@@ -55,6 +55,7 @@
         "edit-student": "Edit Student",
         "find-student": "Find Student",
         "sort-commands": "Sort Commands",
+        "stats-commands": "Stats Commands",
         "auto-grading": "Auto-grading",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
@@ -69,6 +70,9 @@
         "adding-a-student": "Adding a student",
         "deleting-a-student": "Deleting a student",
         "finding-a-student": "Finding a student",
+        "sorting-students": "Sorting Students",
+        "sorting-student-scores": "Sorting Student Scores",
+        "calculating-statistics": "Calculating Statistics",
         "saving-data": "Saving data",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
