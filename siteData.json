@@ -118,6 +118,7 @@
         "graded-component-parameters": "Graded Component Parameters",
         "student-score-parameters": "Student Score Parameters",
         "command-related-parameters": "Command Related Parameters",
+        "notes-on-score-calculation": "Notes on score calculation",
         "navigating-the-graphical-user-interface-gui": "Navigating the Graphical User Interface (GUI)",
         "quick-orientation": "Quick Orientation:",
         "command-format": "Command Format",
@@ -144,10 +145,8 @@
         "saving-the-data": "Saving the data",
         "loading-the-previous-data": "Loading the previous data",
         "archiving-data-files-coming-in-v2-0": "Archiving data files [coming in v2.0]",
-        "faq": "FAQ",
         "command-summary": "Command summary",
-        "faq-2": "FAQ",
-        "known-issues": "Known issues"
+        "faq": "FAQ"
       },
       "headingKeywords": {}
     },
