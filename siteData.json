@@ -189,7 +189,12 @@
       "src": "team/marioalvaro.md",
       "title": "Mario Alvaro's Project Portfolio Page",
       "headings": {
-        "project-tp": "Project: tp"
+        "project-modulight": "Project: ModuLight",
+        "contributions-to-user-guide": "Contributions to User Guide",
+        "edit-student-score-editscore": "Edit student score: editScore",
+        "auto-grading-all-the-students-autograde": "Auto grading all the students: autoGrade",
+        "contributions-to-developer-guide": "Contributions to Developer Guide",
+        "auto-grading": "Auto-grading"
       },
       "headingKeywords": {}
     },
