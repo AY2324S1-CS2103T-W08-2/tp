@@ -53,7 +53,8 @@
         "implementation": "Implementation",
         "add-student": "Add Student",
         "edit-student": "Edit Student",
-        "find-student": "Find Student",
+        "find-commands": "Find Commands",
+        "list-commands": "List Commands",
         "add-graded-component": "Add Graded Component",
         "edit-graded-component": "Edit Graded Component",
         "sort-commands": "Sort Commands",
@@ -181,7 +182,7 @@
       "src": "team/feifeiraindrops.md",
       "title": "Yufei Sun's Project Portfolio Page",
       "headings": {
-        "project-luminus": "Project: LumiNUS"
+        "project-modulight": "Project: ModuLight"
       },
       "headingKeywords": {}
     },
