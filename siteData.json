@@ -144,8 +144,9 @@
         "saving-the-data": "Saving the data",
         "loading-the-previous-data": "Loading the previous data",
         "archiving-data-files-coming-in-v2-0": "Archiving data files [coming in v2.0]",
-        "command-summary": "Command summary",
         "faq": "FAQ",
+        "command-summary": "Command summary",
+        "faq-2": "FAQ",
         "known-issues": "Known issues"
       },
       "headingKeywords": {}
