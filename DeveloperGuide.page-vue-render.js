@@ -446,13 +446,13 @@ with(this){return _c('p',[_c('strong',[_v("Use case: Add a student")])])}
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User enters the details to add a student.")])]),_v(" "),_c('li',[_c('p',[_v("ModuLight adds the student with entered details to the student list.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User enters the details to add a student.")])]),_v(" "),_c('li',[_c('p',[_v("ModuLight adds the student with entered details to the student list."),_c('br')]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. There is some error in the entered data.")]),_v(" "),_c('ul',[_c('li',[_v("1a1. ModuLight shows an error message.\nUse case ends.")])])]),_v(" "),_c('li',[_c('p',[_v("2a. There are already some existing graded components.")]),_v(" "),_c('ul',[_c('li',[_v("2a1. ModuLight creates student scores correspond to the new student for every graded component.\nUse case ends.")])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. There is some error in the entered data.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. ModuLight shows an error message. "),_c('br')]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("2a. There are already some existing graded components.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. ModuLight creates student scores correspond to the new student for every graded component.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Edit a student's information")])])}
@@ -482,7 +482,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list students."
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. ModuLight shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. The selected student has some associated student scores.")]),_v(" "),_c('ul',[_c('li',[_v("3b1. ModuLight deletes all associated students scores.")]),_v(" "),_c('li',[_v("3b2. ModuLight shows a list of updated student scores.\nUse case resumes at step 4.")])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. ModuLight shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. The selected student has some associated student scores.")]),_v(" "),_c('ul',[_c('li',[_v("3b1. ModuLight deletes all associated students scores.")]),_v(" "),_c('li',[_v("3b2. ModuLight shows a list of updated student scores."),_c('br'),_v("\nUse case resumes at step 4.")])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Add a new graded component")])])}
@@ -497,7 +497,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("User creates new Graded Componen
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. There is some error in the entered data.")]),_v(" "),_c('ul',[_c('li',[_v("1a1. ModuLight shows an error message.\nUse case ends.")])])]),_v(" "),_c('li',[_c('p',[_v("2a. There are already some existing students.")]),_v(" "),_c('ul',[_c('li',[_v("2a1. ModuLight creates student scores correspond to the new graded component for every student.\nUse case ends.")])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. There is some error in the entered data.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. ModuLight shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("2a. There are already some existing students.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("2a1. ModuLight creates student scores correspond to the new graded component for every student.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Edit a student score")])])}
@@ -512,7 +512,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list student sc
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. ModuLight shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. There is some error in the entered data.")]),_v(" "),_c('ul',[_c('li',[_v("3b1. ModuLight shows an error message.")])]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. ModuLight shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. There is some error in the entered data.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3b1. ModuLight shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: List all")])])}
@@ -521,7 +521,7 @@ with(this){return _c('p',[_c('strong',[_v("Use case: List all")])])}
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("User requests to list all students, student scores and graded components.")]),_v(" "),_c('li',[_v("ModuLight shows lists of all students, student scores and graded components.")])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list all students, student scores and graded components.")])]),_v(" "),_c('li',[_c('p',[_v("ModuLight shows lists of all students, student scores and graded components.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Delete a graded component and its associated scores")])])}
@@ -536,7 +536,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to list graded com
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. ModuLight shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. The selected graded component has some associated student scores.")]),_v(" "),_c('ul',[_c('li',[_v("3b1. ModuLight deletes all associated students scores.")]),_v(" "),_c('li',[_v("3b2. ModuLight shows a list of updated student scores.\nUse case resumes at step 4.")])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("2a. The list is empty.")]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("3a. The given index is invalid.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3a1. ModuLight shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 2.")])])])]),_v(" "),_c('li',[_c('p',[_v("3b. The selected graded component has some associated student scores.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("3b1. ModuLight deletes all associated students scores.")])]),_v(" "),_c('li',[_c('p',[_v("3b2. ModuLight shows a list of updated student scores."),_c('br')]),_v(" "),_c('p',[_v("Use case resumes at step 4.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Find student(s)")])])}
@@ -551,7 +551,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to find a student 
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("1a. There are some unsupported or incorrect keywords.\n"),_c('ul',[_c('li',[_c('p',[_v("1a1. ModuLight shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_v("1b. There are no keywords given\n"),_c('ul',[_c('li',[_v("1b1. ModuLight shows all students, scores and graded components.")])])])])}
+with(this){return _c('ul',[_c('li',[_v("1a. There are some unsupported or incorrect keywords.\n"),_c('ul',[_c('li',[_c('p',[_v("1a1. ModuLight shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_v("1b. There are no keywords given\n"),_c('ul',[_c('li',[_v("1b1. ModuLight shows all students, scores and graded components.\nUse case ends.")])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Sort student(s)")])])}
@@ -581,7 +581,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to calculate the o
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. There is currently no student scores.")]),_v(" "),_c('ul',[_c('li',[_v("1a1. ModuLight shows an error message.")])]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("1b. User requests to calculate a non-supported statistical measure.")]),_v(" "),_c('ul',[_c('li',[_v("1b1. ModuLight shows an error message and a list of supported statistical measures.")])]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. There is currently no student scores.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. ModuLight shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("1b. User requests to calculate a non-supported statistical measure.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1b1. ModuLight shows an error message and a list of supported statistical measures.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Automatically grade students based on their total score")])])}
@@ -596,7 +596,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to automatically g
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. User request to use unsupported grading method.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. Modulight shows an error message and a list of supported grading method available.")]),_v(" "),_c('p',[_v("Use case ends")])])])]),_v(" "),_c('li',[_c('p',[_v("1b. User inputted non-decreasing values for passing value.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1b1. Modulight shows an error message specifying that the values inputted is non-decreasing.")]),_v(" "),_c('p',[_v("Use case ends")])])])]),_v(" "),_c('li',[_c('p',[_v("1c. User inputted passing values outside the bound of 0 and 100 inclusively.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1c1. Modulight shows an error message specifying that the values must be between 0 and 100 inclusively.")]),_v(" "),_c('p',[_v("Use case ends")])])])]),_v(" "),_c('li',[_c('p',[_v("1d. User inputted too many passing values.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1d1. Modulight shows an error message specifying that there are too many passing values inputted.")]),_v(" "),_c('p',[_v("Use case ends")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. User request to use unsupported grading method.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. Modulight shows an error message and a list of supported grading method available.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("1b. User inputted non-decreasing values for passing value.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1b1. Modulight shows an error message specifying that the values inputted is non-decreasing.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("1c. User inputted passing values outside the bound of 0 and 100 inclusively.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1c1. Modulight shows an error message specifying that the values must be between 0 and 100 inclusively.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("1d. User inputted too many passing values.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1d1. Modulight shows an error message specifying that there are too many passing values inputted.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('em',[_v("{More to be added}")])])}
@@ -674,6 +674,6 @@ with(this){return _c('h2',{attrs:{"id":"appendix-planned-enhancements"}},[_c('st
 with(this){return _c('ol',[_c('li',[_v("Support special characters in student name parameter as some people's legal name do include some special characters(e.g. \"s/o\").")]),_v(" "),_c('li',[_v("Allow the Student List Panel, Student Score List Panel and Graded Component List Panel to automatically scroll down when adding new Student, Student Grade or Graded Component.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 14 Nov 2023, 4:07:30 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 14 Nov 2023, 4:13:23 GMT+8]")])])])}
 }];
   
